@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/298507243.svg)](https://zenodo.org/badge/latestdoi/298507243)
+
 # Evolutionary model for CRD with timing uncertainty
 
 This repository includes Python functions and methods to reproduce the model 
