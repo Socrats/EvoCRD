@@ -1,5 +1,3 @@
-![EGTtools](docs/images/logo-full.png)
-
 # Evolutionary model for CRD with timing uncertainty
 
 This repository includes Python functions and methods to reproduce the model 
