@@ -1,3 +1,5 @@
+![EGTtools](docs/images/logo-full.png)
+
 # Evolutionary model for CRD with timing uncertainty
 
 This repository includes Python functions and methods to reproduce the model 
@@ -35,7 +37,21 @@ python -m ipykernel install --user --name=egtenv
 You may cite this repository in the following way:
 
 ```latex
-@misc{Fernandez2020rep,
+@software{elias_fernandez_2020_4065542,
+  author       = {Fernández Domingos, Elias},
+  title        = {Socrats/EvoCRD: iScience},
+  month        = oct,
+  year         = 2020,
+  publisher    = {Zenodo},
+  version      = {v0.1},
+  doi          = {10.5281/zenodo.4065542},
+  url          = {https://doi.org/10.5281/zenodo.4065542}
+}
+```
+To cite EGTtools use:
+
+```latex
+@misc{Fernandez2020egttools_rep,
   author = {Fernández Domingos, Elias},
   title = {EGTTools: Toolbox for Evolutionary Game Theory},
   year = {2020},
